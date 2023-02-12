@@ -1,9 +1,9 @@
 # Deep-Learning
 
 Homework 1 CPSC-8430\
-Suraj Khamkar\
+Suraj Khamkar
 
-This repo consist of below files with code\
+This repo consist of below files with code
 
 Q1-Task1 - source code for Part1.1 Simulate a Function\
 Q1-Task2 - source code for Part1.2 Train on an Actual Task\
